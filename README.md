@@ -36,3 +36,5 @@ Submission in Moodle should have the .ipynb File and the URL to the file in GitH
 Additional Task:
 
 Those who are able to complete this work on for Mode & Median as well.
+
+LINK: https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/blob/main/LAB03.ipynb
