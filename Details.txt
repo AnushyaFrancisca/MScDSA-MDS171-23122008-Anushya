@@ -1,0 +1,12 @@
+Name: Anushya Francisca
+Contact: 8105682146
+*****************************************************
+ The dishes ordered are as follows: 
+Quantity of Chicken Biriyani ordered: 1
+Quantity of Fish Curry and Rice ordered: 2
+Quantity of Egg Curry and Rice ordered: 1
+Quantity of Chicken Pasta ordered: 1
+
+*****************************************************
+Feedback given:Good service.
+	-------------------------END-------------------------
