@@ -13,5 +13,5 @@ Email: anushya.francisca@msds.christunniversity.in
 |LAB02|28th Aug 2023|The Name Collectors Quest|[LAB02](https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/blob/main/LAB02.ipynb)
 |LAB03|01st Sep 2023|The Tale of Numbers' Harmony|[LAB03](https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/blob/main/LAB03.ipynb)
 |LAB04|4th Sep 2023|A taste of Success: The Restaurant Management System|[LAB04](https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/blob/main/LAB04.ipynb)
-|LAB05|28th Aug 2023|The Name Collectors Quest|[LAB02](https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/blob/main/LAB05.ipynb)
-|LAB06|12th Sep 2023|The Name Collectors Quest|[LAB02](https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/blob/main/LAB06.ipynb)
+|LAB05|28th Aug 2023|Mix & Match Calculator|[LAB05](https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/blob/main/LAB05.ipynb)
+|LAB06|12th Sep 2023|Vowel Counter!|[LAB06](https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/blob/main/LAB06.ipynb)
