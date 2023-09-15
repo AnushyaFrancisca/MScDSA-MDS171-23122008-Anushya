@@ -1,133 +1,133 @@
 ITEM	QUANTITY	PRICE	TOTAL
-prawn		1		20		20
-yogurt		6		20		120
-prawn		5		125		625
-orange		7		300		2100
-chicken		2		300		600
-yogurt		10		50		500
-apple		4		100		400
-chicken		3		125		375
-cheese		1		10		10
-ramen		8		350		2800
-cheese		1		125		125
-apple		9		350		3150
-yogurt		5		125		625
-mutton		9		100		900
-pasta		2		200		400
-juice		9		10		90
-mutton		1		100		100
-mutton		10		100		1000
-mutton		1		10		10
-orange		10		200		2000
-chicken		8		100		800
-juice		1		50		50
-prawn		9		10		90
-cheese		1		350		350
-pasta		10		50		500
-pasta		7		200		1400
-ramen		3		350		1050
-cheese		8		20		160
-chicken		9		50		450
-cheese		8		50		400
-pasta		9		125		1125
-ramen		9		250		2250
-orange		6		350		2100
-chicken		10		125		1250
-prawn		1		20		20
-cheese		10		125		1250
-chicken		6		200		1200
-pasta		10		10		100
-orange		3		200		600
-chicken		1		200		200
-chicken		1		20		20
-apple		7		100		700
-mutton		7		250		1750
-orange		4		20		80
-cheese		9		20		180
-orange		5		125		625
-pasta		9		100		900
-juice		3		10		30
-orange		9		150		1350
-ramen		7		150		1050
-juice		5		100		500
-prawn		2		200		400
-chicken		7		20		140
-prawn		2		125		250
-yogurt		3		10		30
-orange		2		350		700
-orange		1		250		250
-pasta		3		125		375
-yogurt		3		100		300
-ramen		3		300		900
-apple		5		20		100
-yogurt		6		250		1500
-juice		10		250		2500
-chicken		4		150		600
-prawn		1		150		150
-juice		3		10		30
-yogurt		1		250		250
-apple		10		350		3500
-ramen		7		350		2450
+cheese		9		10		90
+prawn		7		150		1050
+juice		8		150		1200
+chicken		5		250		1250
+prawn		2		350		700
+cheese		4		10		40
+cheese		3		10		30
+pasta		1		150		150
+juice		10		125		1250
+apple		6		50		300
+chicken		3		150		450
+prawn		10		125		1250
+prawn		8		10		80
+juice		7		300		2100
+mutton		9		350		3150
+pasta		4		250		1000
+apple		1		250		250
+chicken		4		50		200
 orange		9		200		1800
-pasta		10		350		3500
-cheese		2		150		300
-mutton		9		300		2700
+yogurt		4		50		200
+apple		2		250		500
+chicken		3		50		150
+prawn		8		150		1200
+orange		5		300		1500
+pasta		1		20		20
+mutton		6		150		900
+pasta		10		10		100
+mutton		9		150		1350
+orange		9		200		1800
+cheese		5		150		750
+yogurt		7		350		2450
+prawn		7		10		70
+yogurt		1		200		200
+apple		7		100		700
+prawn		3		10		30
+cheese		2		350		700
+mutton		2		300		600
+orange		3		100		300
+juice		8		300		2400
+cheese		6		350		2100
+prawn		6		200		1200
+chicken		4		200		800
+cheese		3		50		150
+orange		6		200		1200
+ramen		6		200		1200
+cheese		6		10		60
+chicken		10		150		1500
+prawn		5		100		500
+cheese		1		10		10
+pasta		5		200		1000
+cheese		8		200		1600
+orange		1		200		200
+orange		2		50		100
+orange		9		300		2700
+mutton		2		125		250
+ramen		9		350		3150
+orange		7		100		700
+pasta		4		250		1000
+ramen		4		350		1400
+orange		5		20		100
+yogurt		1		20		20
+orange		3		125		375
+chicken		1		100		100
+orange		5		150		750
+ramen		3		300		900
+yogurt		10		200		2000
+ramen		4		125		500
+pasta		10		100		1000
+orange		8		150		1200
+chicken		4		100		400
+ramen		6		125		750
+cheese		3		125		375
+cheese		7		350		2450
+yogurt		5		50		250
+yogurt		3		350		1050
+prawn		9		300		2700
+chicken		8		250		2000
+ramen		6		150		900
+ramen		5		125		625
+orange		9		250		2250
+juice		4		200		800
+chicken		6		200		1200
+prawn		1		50		50
+chicken		3		350		1050
+juice		8		100		800
+ramen		10		100		1000
+cheese		6		150		900
+pasta		3		300		900
+juice		5		250		1250
+juice		8		300		2400
+yogurt		7		250		1750
+pasta		5		125		625
+mutton		4		250		1000
+juice		6		10		60
+ramen		4		250		1000
+cheese		1		100		100
+prawn		6		200		1200
 prawn		9		200		1800
-cheese		5		125		625
-mutton		1		350		350
-pasta		8		20		160
-yogurt		2		10		20
-mutton		1		350		350
-juice		9		10		90
-orange		10		300		3000
-chicken		5		150		750
-juice		2		350		700
-orange		7		250		1750
-orange		6		10		60
-cheese		2		200		400
-apple		5		350		1750
-yogurt		7		50		350
-mutton		5		200		1000
-yogurt		5		200		1000
-chicken		9		100		900
-orange		7		50		350
-juice		9		300		2700
-juice		2		10		20
-orange		1		10		10
-prawn		4		50		200
-prawn		9		50		450
-mutton		5		10		50
-juice		9		200		1800
-pasta		7		300		2100
+mutton		3		150		450
+juice		2		20		40
 ------------------------------
 The total cost for the first five rows is displayed below: 
-The total cost for 1 prawn is: 20
-The total cost for 6 yogurt is: 120
-The total cost for 5 prawn is: 625
-The total cost for 7 orange is: 2100
-The total cost for 2 chicken is: 600
+The total cost for 9 cheese is: 90
+The total cost for 7 prawn is: 1050
+The total cost for 8 juice is: 1200
+The total cost for 5 chicken is: 1250
+The total cost for 2 prawn is: 700
 ------------------------------
 The total cost for the last ten rows is displayed below: 
-The total cost for 9 chicken is: 900
-The total cost for 7 orange is: 350
-The total cost for 9 juice is: 2700
-The total cost for 2 juice is: 20
-The total cost for 1 orange is: 10
-The total cost for 4 prawn is: 200
-The total cost for 9 prawn is: 450
-The total cost for 5 mutton is: 50
-The total cost for 9 juice is: 1800
-The total cost for 7 pasta is: 2100
+The total cost for 7 yogurt is: 1750
+The total cost for 5 pasta is: 625
+The total cost for 4 mutton is: 1000
+The total cost for 6 juice is: 60
+The total cost for 4 ramen is: 1000
+The total cost for 1 cheese is: 100
+The total cost for 6 prawn is: 1200
+The total cost for 9 prawn is: 1800
+The total cost for 3 mutton is: 450
+The total cost for 2 juice is: 40
 ------------------------------
-ITEM NAME	TOTAL QUANTITY	TOTAL
-chicken			65			7285
-mutton			49			8210
-prawn			43			4005
-cheese			47			3800
-ramen			37			10500
-orange			87			16775
-pasta			75			10560
-juice			62			8510
-apple			40			9600
-yogurt			48			4695
+ITEM NAME	TOTAL QUANTITY	TOTAL	MAXIMUM	MINIMUM
+chicken			51			9100		350		50
+mutton			35			7700		350		125
+prawn			81			11830		350		10
+cheese			64			9355		350		10
+ramen			57			11425		350		100
+orange			81			14975		300		20
+pasta			43			5795		300		10
+juice			66			12300		300		10
+apple			16			1750		250		50
+yogurt			38			7920		350		20
 ------------------------------
