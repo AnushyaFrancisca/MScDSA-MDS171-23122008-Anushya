@@ -1,0 +1,13 @@
+ProductID,Items,Quantity,Price
+PID001,pens,100,20
+PID002,pencils,100,5
+PID003,long books (100pages),50,30
+PID004,long books (200pages),200,50
+PID005,Diaries,125,125
+PID006,biscuits,60,30
+PID007,Chips,80,10
+PID008,patties,70,30
+PID009,juice,150,20
+PID010,chocolate,100,30
+PID011,keychains,200,30
+PID012,cup noodles,35,50
