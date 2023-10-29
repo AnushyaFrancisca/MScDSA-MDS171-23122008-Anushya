@@ -14,5 +14,5 @@ Email: anushya.francisca@msds.christunniversity.in
 |Sl. No|WORK TYPE|LINK
 |-----|----------|----------------------------------------|
 |1.|CAC Files|[CAC](https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/tree/main/CAC)
-|2.|Class/Rough Work|[CLASS WORK](https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/blob/main/LAB02.ipynb)
+|2.|Class/Rough Work|[CLASS WORK](https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/tree/master)
 |3.|Lab Work|[LAB WORK](https://github.com/AnushyaFranicisca/MScDSA-MDS171-23122008-Anushya/tree/main/LAB%20WORK)
