@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">CALCULATOR</h1>
+    <form action="">
+        <div>
+            <type for="number1">NUM1</type>
+            <input type="number" name="number1" id="num1">
+        </div>
+        <div>
+            <type for="number2">NUM2</type>
+            <input type="number" name="number2" id="num2"> 
+        </div>
+        <div>
+            <input type="button" value="+" onclick="add()">
+            <input type="button" value="-" onclick="subtract()">
+            <input type="button" value="*" onclick="multiply()">
+            <input type="button" value="/" onclick="divide()">
+        </div>
+        <div>
+            <label for="answer">ANSWER</label>
+            <input type="text" name="answer" readonly id="answer">
+        </div>
+    </form>
+</body>
+</html>

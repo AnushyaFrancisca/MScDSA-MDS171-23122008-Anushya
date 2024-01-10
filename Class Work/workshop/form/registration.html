@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styleform.css">
+        <style>
+            table{
+                width: 50%;
+                margin: 50px;
+                border-collapse: collapse;
+                border-color: rgb(211, 88, 6);
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            .sticky{
+                position: sticky;
+                top: 0;
+                bottom: 0;
+                padding: 5px;
+                background-color: firebrick;
+                border: 2px solid firebrick;
+                text-align: center;
+            }
+
+            img{
+                position: absolute; /* fixed, relative and static */
+                left: 23%;
+                top: 0%;
+                z-index: -1;
+            }
+        </style>
+    </head>
+
+    <title>Registration Form</title>
+
+    <div class="sticky">
+        <ins><b>Registration Form</b></ins>
+    </div>
+    
+    <body style="background-color: rgb(0, 0, 0);">
+        <h2 style="text-align: center;"><ins><b>Registration Form</b></ins></h2>
+        <form>
+            <table border="3" cellpadding="10">
+                
+                    <tr>
+                        <td><b>First Name</b></td>
+                        <td><input type="text" name="name" placeholder="Enter firstname"></td>
+                    </tr>
+                    <tr>
+                        <td><b>Last Name</b></td>
+                        <td><input type="text" name="name" placeholder="Enter lastname"></td>
+                    </tr>
+                    <tr>
+                        <td><b>Gender</b></td>
+                        <td>
+                            <input type="radio" name="gender" id value="Male">Male
+                            <input type="radio" name="gender" id value="Female">Female
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>DOB</b></td>
+                        <td>
+                            <input type="date" name="DOB">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Qualification</b></td>
+                        <td>
+                            <input type="checkbox" name="Qualification" id value="MCA">MCA
+                            <input type="checkbox" name="Qualification" id value="MBA">MBA
+                            <input type="checkbox" name="Qualification" id value="MTech">MTech
+                            <input type="checkbox" name="Qualification" id value="other">Other
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Contact</b></td>
+                        <td><input type="number" name="Contact"></td>
+                    </tr>
+                    <tr>
+                        <td><b>Email</b></td>
+                        <td><input type="email" name="Email" placeholder="@gmail.com"></td>
+                    </tr>
+                    <tr>
+                        <td><b>Address</b></td>
+                        <td><textarea name="address" id></textarea></td>
+                    </tr>
+                    <tr>
+                        <td><b>Select Department</b></td>
+                        <td><select name="select" id>
+                            <option value>Department</option>
+                            <option value>Data Science</option>
+                            <option value>Law</option>
+                            <option value>BBA</option>
+                        </select></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" align="center">
+                            <input type="button" value="Register">
+                            <input type="button" value="Cancel">
+                        </td>
+                    </tr>
+                
+            </table>
+            <br>
+            <br>
+
+            <img src="https://i.pinimg.com/474x/1a/96/f5/1a96f5db135d2f8c27e916dc43aa59ab.jpg" width="800px" height="1300px">
+
+            <h2 style="text-align: center;"><ins><b>Login Form</b></ins></h2>
+            
+            <table border="3" align="center" cellpadding="10">
+                <tr>
+                    <td><b>Username</b></td>
+                    <td><input type="text" name="username"></td>
+                </tr>
+                <tr>
+                    <td><b>Password</b></td>
+                    <td><input type="password" name="password"></td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <input type="button" value="Login">
+                        <input type="button" value="Cancel">
+                    </td>
+                </tr>
+            </table>
+        </form>   
+    </body>
+</html>
